@@ -1,0 +1,33 @@
+
+h1 {
+  font-family: "Google Sans", sans-serif, Arial;
+  font-optical-sizing: auto;
+  font-size: xxxxx-large;
+  font-weight: weight;
+  font-weight: bold;
+  color: darkblue;
+  font-style: normal;
+}
+
+h2 {
+  font-family: "Google Sans", sans-serif, Arial;
+  font-optical-sizing: auto;
+  font-size: xxx-large;
+  font-weight: weight;
+  color: brown;
+  font-style: normal;
+}
+
+body {
+      font-family: Helvitica, Times, serif;
+      margin: 0;
+      color: darkred;
+      background-color: lightsteelblue;
+      font-size: x-large;
+    }
+
+img {
+    border: 10px solid white;
+    padding: 15px;
+    border-image: url(images/Ib3Q1WpV6GjSHJBALakM.jpg) 50% round;
+}
